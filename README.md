@@ -1,6 +1,6 @@
-![image-generator-home](https://github.com/andy-buk/image-generator/assets/117706469/8e98464a-453b-4479-921c-6801a8177fa8)
-![image-generator-create-2](https://github.com/andy-buk/image-generator/assets/117706469/97ff9856-298c-44cd-a9b8-b3356ac71763)
-![image-generator-create](https://github.com/andy-buk/image-generator/assets/117706469/2483c26d-47e1-4437-b6f5-7b1628eca564)
+![image-generator-home](https://github.com/andy-buk/image-generator/assets/117706469/8d3029a2-f024-416d-afba-29d15ce3e5de)
+![image-generator-create-2](https://github.com/andy-buk/image-generator/assets/117706469/d5e55882-84a9-4701-87fd-35b908e6babf)
+![image-generator-create](https://github.com/andy-buk/image-generator/assets/117706469/9caba9cc-b021-474a-846d-21cfb9fd1918)
 
 # Image Generator
 
