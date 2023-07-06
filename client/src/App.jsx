@@ -10,8 +10,9 @@ const App = () => {
       <header className="w-full flex justify-between 
        items-center bg-[#2d3236] sm:px-8 px-4 py-4 
       border-b border-b-[#474b4f]">
-        <Link to="/">
-          <img src={logo} alt="logo" className="w-10 object-contain" />
+        <Link to="/" className="font-inter font-medium bg-[#86c232]
+        text-white px-4 py-2 rounded-md">
+          Home
         </Link>
 
         <Link to="/create-post" className="font-inter font-medium

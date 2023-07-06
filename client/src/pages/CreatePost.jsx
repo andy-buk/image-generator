@@ -83,10 +83,10 @@ const handleSubmit = async (e) => {
     <section className='max-w-7xl mx-auto'>
       <div>
         <h1 className='font-extrabold text-[#86c232] text-[32px]'>
-          Create
+          Venture into AI Creativity
         </h1>
         <p className='mt-2 text-white text-[16px] max-w-[500px]'>
-          Create imaginative and visually stunning images through DALL-E AI and share them with the community
+          Bring your imaginative prompts to life with the power of DALL-E AI and contribute to our growing visual odyssey.
         </p>
       </div>
 
@@ -96,7 +96,7 @@ const handleSubmit = async (e) => {
             labelName="Your name"
             type="text"
             name="name"
-            placeholder="John Doe"
+            placeholder="Average Joe"
             value={form.name}
             handleChange={handleChange}
           />
@@ -104,7 +104,7 @@ const handleSubmit = async (e) => {
             labelName="Prompt"
             type="text"
             name="prompt"
-            placeholder="A plush toy robot sitting against a yellow wall"
+            placeholder="A comic book cover of a superhero wearing headphones"
             value={form.prompt}
             handleChange={handleChange}
             isSurpriseMe
@@ -146,7 +146,7 @@ const handleSubmit = async (e) => {
         </div>
         <div className='mt-10'>
           <p className='mt-2 text-white text-[14px]'>
-            Once you have created the image you want, you can share it with others in the community.
+            After your creative session, it's time to reveal your masterpiece to our community of AI-inspired artists.
           </p>
           <button
             type="submit"
